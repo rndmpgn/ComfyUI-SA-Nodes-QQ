@@ -1,2 +1,2 @@
 hydra-core
-SAM-2
+git+https://github.com/facebookresearch/sam2.git
